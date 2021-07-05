@@ -8,10 +8,7 @@
 
 <script>
 export default {
-  name: 'Title',
-  props: {
-    msg: String
-  }
+  name: 'Title'
 }
 </script>
 

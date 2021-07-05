@@ -2,6 +2,13 @@
     <div></div>
 </template>
 
+<script>
+export default {
+  name: 'Hero'
+}
+</script>
+
+
 <style scoped>
     div {
         background-image: url(../assets/sfondo.jpg);
