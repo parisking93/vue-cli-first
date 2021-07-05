@@ -19,5 +19,6 @@ export default {
     h1 {
         font-size: 50px;
         text-transform: capitalize;
+        margin: 20px 0;
     }
 </style>
